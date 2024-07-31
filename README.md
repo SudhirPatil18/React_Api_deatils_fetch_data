@@ -35,15 +35,12 @@ Ensure you have the following installed on your machine:
    git clone https://github.com/yourusername/your-repository-name.git
    cd your-repository-name
 
-2. **Install packages** 
+2. **Install packages and run** 
    ```bash
    npm install axios redux react-redux redux-thunk
  ``` bash
  npm install redux-thunk
 
-3. **How to Run **
- ```bash
- npx create-react-app projectname
 cd projectname
-```bash
+
 npm start
